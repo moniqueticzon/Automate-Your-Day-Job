@@ -1,7 +1,7 @@
 Financial Analysis
 -------------------------------
-Total months: 0
-Total profit: $0
-Average Change: $0
+Total months: 85
+Total profit: $38382578
+Average Change: $-2315.12
 Greatest Increase in Profits: $0
 Greatest Decrease in Profits: $0
