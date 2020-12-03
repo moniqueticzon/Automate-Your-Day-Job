@@ -1,0 +1,7 @@
+Financial Analysis
+-------------------------------
+Total months: 0
+Total profit: $0
+Average Change: $0
+Greatest Increase in Profits: $0
+Greatest Decrease in Profits: $0
