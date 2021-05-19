@@ -10,4 +10,4 @@ Calculated each of the following:
 * The greatest decrease in losses (date and amount) over the entire period.
 
 Resulting analysis:
-![](Screenshot/command_line.png)
+![](Screenshot/command_line.PNG)
